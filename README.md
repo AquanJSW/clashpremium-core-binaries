@@ -1,5 +1,4 @@
 # clashpremium-core
-All the latest clash premium cores.
 
 ```powershell
 > .\clashpremium-windows-amd64.exe -v
